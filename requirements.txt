@@ -1,0 +1,26 @@
+# ── Core deep learning ─────────────────────────────────────────────────────
+torch
+torchvision
+torchaudio
+ultralytics
+
+# ── Computer vision ────────────────────────────────────────────────────────
+opencv-python
+
+# ── Scientific computing ───────────────────────────────────────────────────
+numpy
+scipy
+pandas
+scikit-learn
+scikit-image
+
+# ── Visualization ──────────────────────────────────────────────────────────
+matplotlib
+Pillow
+
+# ── Utilities ──────────────────────────────────────────────────────────────
+tqdm
+jupyterlab
+
+# ── Graphical Interface ────────────────────────────────────────────────────
+PyQt5
